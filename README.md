@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenparjapati</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">I’m a Java Backend Developer specializing in building scalable and secure web applications using Spring Boot and Microservices Architecture. With a strong foundation in backend development, I am continuously improving my skills in Spring Security,and distributed systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenparjapati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenparjapati" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naveenparjapati&label=Profile%20views&color=0e75b6&style=flat" alt="naveenparjapati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenparjapati" alt="naveenparjapati" /></a> </p>
 
