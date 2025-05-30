@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenparjapati" alt="naveenparjapati" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Currently Learning: 🔭  Microservices, Spring Security<br>  
+ 💡 Interested in: Scalable architectures, API security, cloud-native applications <br> 
+ 💬 Ask Me About: Java, Spring Boot, Spring Security, Microservices, REST APIs <br> 
+ 📫 How to Reach Me:naveenkumarp1009@gmail.com
+
+---</h3>
 <p align="left">
 </p>
 
